@@ -17,4 +17,4 @@ The Project is divided in 4 different folders.
 	-Religious_Centers:
 
 
-Repository for the subject A.V._Data subject of the master in Physics of Complex and Biological systems.
+Repository for the subject A.V._Data subject of the master in Physics of Complex and Biological systems, Universitat de Barcelona.
