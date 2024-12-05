@@ -12,9 +12,13 @@ The Project is divided in 4 different folders.
 		·Correlacion_Sector-Nacionalidad.ipynb: computes the Pearson coefficent correlation between the number of migrants of each nationality nd the number of Jobs in the four main economic activities in the región (primary sector, industry sector, construction sector and service sector).
 		·World_map_plot_of_correlations.ipynb: plots a world heat map to show the Pearson coefficent value for each nationality and a given sector.
 
-	-Miriam:
+	-Income: includes notebooks used to analyze the relationship between average income per person and the proportion of foreign residents. This analysis is segmented by municipality type, categorized by urbanization level and population density.
 
-	-Religious_Centers:
+	-Religious_Centers: encompasses the notebooks utilized to explore the relationship between religious diversity and cultural diversity, assessing potential correlations and patterns.
+ 
+ 	-Study level: holds the notebooks leveraged to investigate the connection between educational attainment levels and immigrant population distribution, offering insights into how immigration impacts education across the region.
+
+
 
 
 Repository for the subject A.V._Data subject of the master in Physics of Complex and Biological systems, Universitat de Barcelona.
