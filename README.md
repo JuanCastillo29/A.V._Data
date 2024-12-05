@@ -2,7 +2,7 @@
 
 This GitHub serves as the central repository for all codes and notebooks related to the study on the social, economic, and cultural impact of immigration in Cataluña. The study aims to provide a comprehensive understanding of how immigration has shaped various aspects of life in the region, offering insights into demographic trends, labor market dynamics, social integration, and cultural transformation. The dataset used for this study and its results can be obtained from [Exploring the Social, Economic, and Cultural Impact of Immigration in Cataluña](https://figshare.com/projects/Exploring_the_Social_Economic_and_Cultural_Impact_of_Immigration_in_Catalu_a/229650).
 
-## folders details
+## Folders details
 The Project is divided in 4 different folders.
 
 ### carto
@@ -21,10 +21,11 @@ This folder includes notebooks used to analyze the relationship between average 
 ### Religious_Centers
 This folder encompasses the notebooks utilized to explore the relationship between religious diversity and cultural diversity, assessing potential correlations and patterns.
 
-### Study level
+### Study_level
 This folder holds the notebooks leveraged to investigate the connection between educational attainment levels and immigrant population distribution, offering insights into how immigration impacts education across the region.
+- study_level.ipynb: It combines the dataset of study levels(weighted average of 10 categories) and map(comarcas) and draws a heat map. Additionaly, it also calculates the correlation coefficient between study levels(weighted average).
 
 
 
-
+## About this repository
 Repository for the subject A.V._Data subject of the master in Physics of Complex and Biological systems, Universitat de Barcelona.
