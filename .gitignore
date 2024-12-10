@@ -11,3 +11,12 @@
 # Some versions of Finale have a bug and randomly save extra copies of
 # the music source as "<Filename> copy.mus"
 *copy.mus
+.ipynb_checkpoints/
+Economic_Sector/.ipynb_checkpoints/
+Economic_Sector/.ipynb_checkpoints/
+Economic_Sector/Df_Correlacion.csv
+Economic_Sector/Economic.txt
+Economic_Sector/Poblacion de cada nacionalidad.csv
+Economic_Sector/Poblacion en cada sector.csv
+Economic_Sector/Poblacion inmigrante.csv
+Economic_Sector/paises.csv

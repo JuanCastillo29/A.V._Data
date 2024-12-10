@@ -1,1 +1,0 @@
-This folder contains the data necessary to create province's map of Spain and Catañula.
